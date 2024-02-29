@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at Technical University of Munich (TUM).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Remote Sensing:** Point cloud processing, Object extraction
+- **Forestry:** Urban vegetation/forests, individual tree semi or auto extraction, parameters extraction and applied analysis.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2023]** I won first place in the national LiDAR data processing competition for the 'Fine Extraction of Roadside Trees with MLS LiDAR data'.
+- **[Oct. 2022]** I Joined the Institute of Forest Management (IFM) in the School of Life Sciences at TUM.
+- **[Jun. 2022]** I graduated from the State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing at Wuhan University. Besides, I have been honored as an outstanding graduate of Wuhan University.
+- 
 
 {% include_relative _includes/publications.md %}
 
