@@ -1,16 +1,23 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">SCHOLARSHIPS & AWARDS</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
+  <li><autocolor>Outstanding Student Cadre, Wuhan University, Jun 2021</autocolor></a></li>
+  <li><autocolor>First prize of graduate students' scholarship, Wuhan University, Dec 2020</autocolor></a></li>
+  <li><autocolor>Scholarship for Outstanding Master's Freshmen, Wuhan University, Oct 2019</autocolor></a></li>
+  <li><autocolor>Outstanding undergraduate thesis, China University of Geosciences (Wuhan), Jun 2019</autocolor></a></li>
+  <li><autocolor>Outstanding graduates, China University of Geosciences (Wuhan),	Jun 2019 </autocolor></a></li>
+  <li><autocolor>National Scholarship, China University of Geosciences (Wuhan),	Dec 2017 </autocolor></a></li>
+  <li><autocolor>Presidential Scholarship, China University of Geosciences (Wuhan),  Dec 2016 </autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">SCHOLARSHIPS & AWARDS</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li><autocolor>Data Processing Competition of the 7th National LiDAR Conference, Oct 2023</autocolor></a></li>
+  <li><autocolor>Esri Development Competition Group C Remote Sensing Applications category, Oct 2018</autocolor></a></li>
+  <li><autocolor>The 6th National College Students GIS Application Skills Competition, Dec 2017</autocolor></a></li>
+  <li><autocolor>Esri Development Competition Group D Remote Sensing Applications category, Nov 2017</autocolor></a></li>
+  <li><autocolor>Talent Project, China University of Geosciences (Wuhan)	March 2016</autocolor></a></li>
 </ul>
