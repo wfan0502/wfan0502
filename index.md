@@ -16,7 +16,6 @@ I am a Ph.D. student at Technical University of Munich (TUM).
 - **[Oct. 2023]** I won first place in the national LiDAR data processing competition for the 'Fine Extraction of Roadside Trees with MLS LiDAR data'.
 - **[Oct. 2022]** I Joined the Institute of Forest Management (IFM) in the School of Life Sciences at TUM.
 - **[Jun. 2022]** I graduated from the State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing at Wuhan University. Besides, I have been honored as an outstanding graduate of Wuhan University.
-- 
 
 {% include_relative _includes/publications.md %}
 
