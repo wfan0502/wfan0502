@@ -19,5 +19,5 @@
   <li><autocolor>Esri Development Competition Group C Remote Sensing Applications category, Oct 2018</autocolor></li>
   <li><autocolor>The 6th National College Students GIS Application Skills Competition, Dec 2017</autocolor></li>
   <li><autocolor>Esri Development Competition Group D Remote Sensing Applications category, Nov 2017</autocolor></li>
-  <li><autocolor>Talent Project, China University of Geosciences (Wuhan)	March 2016</autocolor></a></li>
+  <li><autocolor>Talent Project, China University of Geosciences (Wuhan)	March 2016</autocolor></li>
 </ul>
