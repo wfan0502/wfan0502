@@ -1,6 +1,6 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">SCHOLARSHIPS & AWARDS</h4>
+<h4 style="margin:0 10px 0;">Scholarships & Awards</h4>
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>Outstanding Student Cadre, Wuhan University, Jun 2021</autocolor></a></li>
@@ -12,7 +12,7 @@
   <li><autocolor>Presidential Scholarship, China University of Geosciences (Wuhan),  Dec 2016 </autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">SCHOLARSHIPS & AWARDS</h4>
+<h4 style="margin:0 10px 0;">Activities</h4>
 
 <ul style="margin:0 0 20px;">
   <li><autocolor>Data Processing Competition of the 7th National LiDAR Conference, Oct 2023</autocolor></li>
