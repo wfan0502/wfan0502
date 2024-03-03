@@ -3,6 +3,8 @@
 <h4 style="margin:0 10px 0;">Scholarships & Awards</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><autocolor>Outstanding graduates, Wuhan University, Jun 2022</autocolor></li>
+  <li><autocolor>First prize of graduate students' scholarship, Wuhan University, Dec 2021</autocolor></li>
   <li><autocolor>Outstanding Student Cadre, Wuhan University, Jun 2021</autocolor></li>
   <li><autocolor>First prize of graduate students' scholarship, Wuhan University, Dec 2020</autocolor></li>
   <li><autocolor>Scholarship for Outstanding Master's Freshmen, Wuhan University, Oct 2019</autocolor></li>
