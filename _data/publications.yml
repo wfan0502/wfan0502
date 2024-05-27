@@ -13,11 +13,11 @@ main:
 
   - title: Investigating Dual-Source Satellite Image Data and ALS Data for Estimating Aboveground Biomass
     authors:  <strong>Wen Fan </strong>, Jiaojiao Tian, Thomas Knoke, Bisheng Yang*, Fuxun Liang, Zhen Dong (*Corresponding authors)
-    Publication: International Journal of Applied Earth Observation and Geoinformation
-    pdf: https://www.sciencedirect.com/science/article/pii/S0303243421000751
+    Publication: Remote Sensing
+    pdf: https://www.mdpi.com/2072-4292/16/10/1804
     conference_short: RS
-    conference: Remote Sensing <strong>(SCIE)</strong>, 2021.
+    conference: Remote Sensing <strong>(SCIE)</strong>, 2024.
     code: 
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:taqvgu4gVQsJ:scholar.google.com/&output=citation&scisdr=ClHo6zg1EIfTt-Z4-4U:AFWwaeYAAAAAZlR-44X1EZjz78lQ_MxxqnekD6w&scisig=AFWwaeYAAAAAZlR-4yVr5uX8Vo4cqfdUV2Rg9vM&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/RS.tif
+    image: ./assets/img/RS.jpg
     notes: Accept
