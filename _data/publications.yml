@@ -34,7 +34,7 @@ main:
     notes: Accept
 
 
-  - title: Investigating Dual-Source Satellite Image Data and ALS Data for Estimating Aboveground Biomass
+  - title: Using Mobile Laser Scanning Point Cloud to Extract Urban Roadside Trees for Ecological Benefits Estimation
     authors:  <strong>Wen Fan </strong>, Bisheng Yang∗, Fuxun Liang, Zhen Dong (*Corresponding authors)
     Publication: The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences
     pdf: https://isprs-archives.copernicus.org/articles/XLIII-B2-2020/211/2020/isprs-archives-XLIII-B2-2020-211-2020.pdf
@@ -45,7 +45,7 @@ main:
     image: ./assets/img/con1.jpg
     notes: Oral
 
-  - title: Investigating Dual-Source Satellite Image Data and ALS Data for Estimating Aboveground Biomass
+  - title: Comparing deep learning and MCWST approaches for individual tree crown segmentation
     authors:  <strong>Wen Fan </strong>, Jiaojiao Tian, Jonas Troles, Martin Döllerer, Mengistie Kindu, Thomas Knoke* (*Corresponding authors)
     Publication: The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences
     pdf: https://isprs-annals.copernicus.org/articles/X-1-2024/67/2024/
