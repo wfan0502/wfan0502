@@ -21,3 +21,25 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:taqvgu4gVQsJ:scholar.google.com/&output=citation&scisdr=ClHo6zg1EIfTt-Z4-4U:AFWwaeYAAAAAZlR-44X1EZjz78lQ_MxxqnekD6w&scisig=AFWwaeYAAAAAZlR-4yVr5uX8Vo4cqfdUV2Rg9vM&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/RS.jpg
     notes: Accept
+
+  - title: Investigating Dual-Source Satellite Image Data and ALS Data for Estimating Aboveground Biomass
+    authors:  <strong>Wen Fan </strong>, Bisheng Yang∗, Fuxun Liang, Zhen Dong (*Corresponding authors)
+    Publication: The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences
+    pdf: https://isprs-archives.copernicus.org/articles/XLIII-B2-2020/211/2020/isprs-archives-XLIII-B2-2020-211-2020.pdf
+    conference_short: ISPRS
+    conference: The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences <strong>(EI)</strong>, 2024.
+    code: 
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:2iyeVTzI-n4J:scholar.google.com/&output=citation&scisdr=ClHo6zg1EIfTt-aBFcM:AFWwaeYAAAAAZlSHDcOxMT7vHDzwzFyL4pIn9iQ&scisig=AFWwaeYAAAAAZlSHDYNswF8E8L7qD1nkKHBg51w&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/con1.jpg
+    notes: Oral
+
+  - title: Investigating Dual-Source Satellite Image Data and ALS Data for Estimating Aboveground Biomass
+    authors:  <strong>Wen Fan </strong>, Jiaojiao Tian, Jonas Troles, Martin Döllerer, Mengistie Kindu, Thomas Knoke* (*Corresponding authors)
+    Publication: The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences
+    pdf: https://isprs-annals.copernicus.org/articles/X-1-2024/67/2024/
+    conference_short: ISPRS
+    conference: ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences <strong>(EI)</strong>, 2024.
+    code: 
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:7XvrvdtO8i0J:scholar.google.com/&output=citation&scisdr=ClHo6zg1EKqPtOaMHyI:AFWwaeYAAAAAZlSKByI8SilwFlkU2qaWLxM3z6o&scisig=AFWwaeYAAAAAZlSKB9AFpmMQ9oqMjkipZceLKIs&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/con2.jpg
+    notes: Oral
