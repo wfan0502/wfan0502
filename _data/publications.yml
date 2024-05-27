@@ -23,14 +23,14 @@ main:
     notes: Accept
 
   - title: BAMFORESTS: Bamberg Benchmark Forest Dataset of Individual Tree Crowns in Very-High-Resolution UAV Images
-    authors:  Jonas Troles*, Ute Schmid, <strong>Wen Fan </strong>, Jiaojiao Tian(*Corresponding authors)
+    authors:  Jonas Troles*, Ute Schmid, <strong>Wen Fan </strong>, Jiaojiao Tian (*Corresponding authors)
     Publication: Remote Sensing
-    pdf: https://www.sciencedirect.com/science/article/pii/S0303243421000751
+    pdf: https://www.mdpi.com/2072-4292/16/10/1804
     conference_short: RS
     conference: Remote Sensing <strong>(SCIE)</strong>, 2024.
     code: 
-    bibtex: https://www.sciencedirect.com/science/article/pii/S0303243421000751
-    image: ./assets/img/RS2.jpg
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:taqvgu4gVQsJ:scholar.google.com/&output=citation&scisdr=ClHo6zg1EIfTt-Z4-4U:AFWwaeYAAAAAZlR-44X1EZjz78lQ_MxxqnekD6w&scisig=AFWwaeYAAAAAZlR-4yVr5uX8Vo4cqfdUV2Rg9vM&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/RS.jpg
     notes: Accept
 
 
