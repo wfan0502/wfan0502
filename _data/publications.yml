@@ -22,16 +22,7 @@ main:
     image: ./assets/img/RS.jpg
     notes: Accept
 
-  - title: BAMFORESTS: Bamberg Benchmark Forest Dataset of Individual Tree Crowns in Very-High-Resolution UAV Images
-    authors:  Jonas Troles*, Ute Schmid, <strong> Wen Fan </strong>, Jiaojiao Tian (*Corresponding authors)
-    Publication: Remote Sensing
-    pdf: https://www.mdpi.com/2072-4292/16/11/1935
-    conference_short: RS
-    conference: Remote Sensing <strong>(SCIE)</strong>, 2024.
-    code: 
-    bibtex: https://www.mdpi.com/2072-4292/16/11/1935
-    image: ./assets/img/RS2.jpg
-    notes: Accept
+
 
     
   - title: Using Mobile Laser Scanning Point Cloud to Extract Urban Roadside Trees for Ecological Benefits Estimation
