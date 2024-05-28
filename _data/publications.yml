@@ -22,9 +22,17 @@ main:
     image: ./assets/img/RS.jpg
     notes: Accept
 
+  - title: Investigating Dual-Source Satellite Image Data and ALS Data for Estimating Aboveground Biomass
+    authors:  <strong>Wen Fan </strong>, Jiaojiao Tian, Thomas Knoke, Bisheng Yang*, Fuxun Liang, Zhen Dong (*Corresponding authors)
+    Publication: Remote Sensing
+    pdf: https://www.mdpi.com/2072-4292/16/11/1935
+    conference_short: RS
+    conference: Remote Sensing <strong>(SCIE)</strong>, 2024.
+    code: 
+    bibtex: https://www.mdpi.com/2072-4292/16/11/1935
+    image: ./assets/img/RS2.jpg
+    notes: Accept
 
-
-    
   - title: Using Mobile Laser Scanning Point Cloud to Extract Urban Roadside Trees for Ecological Benefits Estimation
     authors:  <strong>Wen Fan </strong>, Bisheng Yang∗, Fuxun Liang, Zhen Dong (*Corresponding authors)
     Publication: The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences
