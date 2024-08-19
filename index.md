@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Technical University of Munich (TUM).
+I am a Ph.D. candidate at Technical University of Munich (TUM).
 
 ## Research Interests
 
