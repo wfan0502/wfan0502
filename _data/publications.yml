@@ -33,6 +33,29 @@ main:
     image: ./assets/img/RS2.jpg
     notes: Accept
 
+  - title: Forest inventories and carbon stock estimations via ultra-high resolution UAV images and deep learning  
+    authors: <strong>Wen Fan</strong>, Thomas Knoke, Jonas Troles, Jiaojiao Tian* (*Corresponding authors)
+    Publication: ISPRS Journal of Photogrammetry and Remote Sensing
+    pdf: 
+    conference_short: ISPRSJ
+    conference: Remote Sensing <strong>(SCIE)</strong>, 2025.
+    code: 
+    bibtex: 
+    image: ./assets/img/isprsj1.jpg
+    notes: Under Review
+
+
+  - title: WHU-STree: A Multi-modal Benchmark Dataset for Street Tree Inventory
+    authors:  Ruifei Ding, Zhe Chen,<strong> Wen Fan </strong>, Chen Long, Huijuan Xiao, Yelu Zeng, Zhen Dong, Bisheng Yang* (*Corresponding authors)
+    Publication: ISPRS Journal of Photogrammetry and Remote Sensing
+    pdf: 
+    conference_short: ISPRSJ
+    conference: Remote Sensing <strong>(SCIE)</strong>, 2025.
+    code: 
+    bibtex: 
+    image: ./assets/img/isprsj2.jpg
+    notes: Under Review
+
   - title: Using Mobile Laser Scanning Point Cloud to Extract Urban Roadside Trees for Ecological Benefits Estimation
     authors:  <strong>Wen Fan </strong>, Bisheng Yang∗, Fuxun Liang, Zhen Dong (*Corresponding authors)
     Publication: The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences
@@ -54,3 +77,27 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:7XvrvdtO8i0J:scholar.google.com/&output=citation&scisdr=ClHo6zg1EKqPtOaMHyI:AFWwaeYAAAAAZlSKByI8SilwFlkU2qaWLxM3z6o&scisig=AFWwaeYAAAAAZlSKB9AFpmMQ9oqMjkipZceLKIs&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/con2.jpg
     notes: Oral
+
+  - title: Deep learning based individual tree crown delineation from panchromatic aerial imagery
+    authors:  Jiaojiao Tian, Daniel Panangian,<strong> Wen Fan</strong>, Bastian Siegmann, and Xiangtian Yuan
+    Publication: The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences
+    pdf: https://isprs-annals.copernicus.org/articles/X-G-2025/885/2025/isprs-annals-X-G-2025-885-2025.pdf
+    conference_short: ISPRS
+    conference: The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences <strong>(EI)</strong>, 2020.
+    code: 
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wAZhOE5KDc0J:scholar.google.com/&output=citation&scisdr=CgLPA7yxEJbIzA8ojLg:AAZF9b8AAAAAaMkulLjcJ4QNWThfnO6KnZqs-G8&scisig=AAZF9b8AAAAAaMkulHDYAeRtuKbHT8nkUbwhdMQ&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/con4.jpg
+    notes: Oral
+
+
+  - title: Individual Tree Crown Based Tree Species Classification from Very High-Resolution UAV Images
+    authors:  Mareike Weishaupt,<strong> Wen Fan</strong>, Jonas Troles, Jiaojiao Tian* (*Corresponding authors)
+    Publication: 2025 IEEE International Geoscience and Remote Sensing Symposium
+    pdf: 
+    conference_short: IGASS
+    conference: 2025 IEEE International Geoscience and Remote Sensing Symposium
+    code: 
+    bibtex: 
+    image: ./assets/img/con3.jpg
+    notes: Oral
+
