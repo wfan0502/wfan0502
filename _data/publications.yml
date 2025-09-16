@@ -34,7 +34,7 @@ main:
     notes: Accept
 
   - title: Forest inventories and carbon stock estimations via ultra-high resolution UAV images and deep learning  
-    authors: <strong>Wen Fan</strong>, Thomas Knoke, Jonas Troles, Jiaojiao Tian* (*Corresponding authors)
+    authors: <strong> Wen Fan</strong>,  Thomas Knoke, Jonas Troles, Jiaojiao Tian* (*Corresponding authors)
     Publication: ISPRS Journal of Photogrammetry and Remote Sensing
     pdf: 
     conference_short: ISPRSJ
@@ -45,8 +45,8 @@ main:
     notes: Under Review
 
 
-  - title: WHU STree: A Multi-modal Benchmark Dataset for Street Tree Inventory
-    authors:  Ruifei Ding, Zhe Chen,<strong> Wen Fan </strong>, Chen Long, Huijuan Xiao, Yelu Zeng, Zhen Dong, Bisheng Yang* (*Corresponding authors)
+  - title: WHU STree: A Multi modal Benchmark Dataset for Street Tree Inventory
+    authors:  Ruifei Ding, Zhe Chen,<strong> Wen Fan</strong>,  Chen Long, Huijuan Xiao, Yelu Zeng, Zhen Dong, Bisheng Yang* (*Corresponding authors)
     Publication: ISPRS Journal of Photogrammetry and Remote Sensing
     pdf: 
     conference_short: ISPRSJ
