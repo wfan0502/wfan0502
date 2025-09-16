@@ -45,7 +45,7 @@ main:
     notes: Under Review
 
 
-  - title: WHU-STree: A Multi-modal Benchmark Dataset for Street Tree Inventory
+  - title: WHU STree: A Multi-modal Benchmark Dataset for Street Tree Inventory
     authors:  Ruifei Ding, Zhe Chen,<strong> Wen Fan </strong>, Chen Long, Huijuan Xiao, Yelu Zeng, Zhen Dong, Bisheng Yang* (*Corresponding authors)
     Publication: ISPRS Journal of Photogrammetry and Remote Sensing
     pdf: 
